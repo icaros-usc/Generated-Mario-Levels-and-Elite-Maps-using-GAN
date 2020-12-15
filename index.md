@@ -3,7 +3,7 @@
 ## Representation-Based Behavior Characteristics
 
 <p align="center">
-    <img style="margin: 0 auto;" src="figures/MarioGAN-CMAME.png" width=350 height=350> 
+    <img style="margin: 0 auto;" src="figures/MarioGAN-CMAME.png" width=650> 
 </p>
 <p align="center"><b> Archives of Elites and Example Levels on Representation-Based BC using CMA-ME</b></p>
 <br>
